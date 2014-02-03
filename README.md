@@ -3,7 +3,7 @@ QA-html
 
 These are the starter files for the Q&amp;A Assignment.
 
-To complete the assignment:
+To complete the assignment: 
 
 * Fork the repository to your Github account
 * Edit the index.html file to add proper markup to the page (I will show you how to use cloud 9, http://c9.io )
