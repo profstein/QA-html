@@ -1,0 +1,64 @@
+/* this centers my content on the browser  window */
+.wrapper{
+	width:800px;
+	height:620px;
+	margin:0px auto;
+	padding:10px 20px;
+	border:3px solid #999;
+}
+#header{
+	
+h1, h2{
+	color:#999;
+	text-align:center;
+}
+h2{
+	color:#666;
+}
+#navigation{
+	height:50px;
+}
+#navigation li{
+	display:inline;
+	float:right;
+	margin-right:20px;
+}
+a:link{
+	text-decoration:none;
+	color:#ff0066;
+}
+a:visited{
+	text-decoration:none;
+	color:#666;
+}
+a:hover{
+	text-decoration:none;
+	color:#00ccff;
+}
+#mainContent{
+	
+}
+h3{
+	
+}
+hr{
+	
+}
+.entryPost p{
+	
+}
+#sideBar{
+	
+}
+#sideBar h3{
+	
+}
+#sideBar hr{
+	
+}
+#sideBar ul li{
+	
+}
+#footer{
+	text-align:center;
+}
